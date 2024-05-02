@@ -1,0 +1,5 @@
+•	A class should create 1 object is called singleton
+
+1.	Constructor should be private. So that we cannot create an object in another class, we will create object by using method.
+2.	Initially we don’t have any object and we want to create an object by using this method but method should be static.
+This this method will create object of this (Car) class.
